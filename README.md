@@ -242,3 +242,5 @@ Sepia using colorchannelmixer
                 "[out_overlay]curves=vintage[out]",  
                 "-s", "320x240","-r", "30", "-b", "15496k", "-vcodec", "mpeg4","-ab", "48000", "-ac", "2", "-ar", "22050",
                 "/sdcard/videokit/out_water_vinta.mp4"};
+		
+参考（需梯子）：http://androidwarzone.blogspot.hk/2011/12/ffmpeg4android.html
