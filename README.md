@@ -244,3 +244,4 @@ Sepia using colorchannelmixer
                 "/sdcard/videokit/out_water_vinta.mp4"};
 		
 参考（需梯子）：http://androidwarzone.blogspot.hk/2011/12/ffmpeg4android.html
+https://androidlearnersite.wordpress.com/2017/03/17/ffmpeg-video-editor/
